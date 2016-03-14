@@ -1,0 +1,19 @@
+{
+  "name": "d3vice-client-simple",
+  "version": "1.0.0",
+  "description": "simple client, frameworkless simple SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insanity54/d3vice-client-simple.git"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/d3vice-client-simple/issues"
+  },
+  "homepage": "https://github.com/insanity54/d3vice-client-simple#readme"
+}

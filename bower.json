@@ -1,0 +1,19 @@
+{
+  "name": "d3vice-client-simple",
+  "homepage": "https://github.com/insanity54/d3vice-client-simple",
+  "authors": [
+    "Chris Grimmett <chris@grimtech.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
